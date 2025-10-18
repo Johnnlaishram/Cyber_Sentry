@@ -1,0 +1,38 @@
+# FastAPI & Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+aiofiles
+
+# AI/ML Dependencies
+torch
+transformers
+numpy
+scikit-learn
+
+# Web Scraping & Browser Automation
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+urllib3
+
+# URL & Domain Analysis
+tldextract
+python-whois
+dnspython
+
+# Security & SSL
+cryptography
+pyopenssl
+
+# Utilities
+pydantic
+python-dateutil
+click
+
+# Development (Optional)
+python-dotenv
+pytest
+black
